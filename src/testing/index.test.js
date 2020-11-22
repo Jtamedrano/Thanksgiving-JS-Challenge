@@ -1,1 +1,0 @@
-const { reverse } = require("./index");

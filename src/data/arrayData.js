@@ -149,7 +149,7 @@ const numArr = [
   147,
   148,
   149,
-  150
+  150,
 ];
 
 const alphaArr = [
@@ -204,7 +204,7 @@ const alphaArr = [
   "w",
   "x",
   "y",
-  "z"
+  "z",
 ];
 
-export {alphaArr, numArr}
+module.exports = { alphaArr, numArr };
