@@ -1,0 +1,21 @@
+{
+  "name": "thanksgiving-javascript-challenege-2020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "dependencies": {
+    "bootstrap": "4.5.3",
+    "jest": "26.6.3",
+    "sass": "1.28.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
